@@ -1,0 +1,23 @@
+# Compilação
+build/
+*.o
+*.a
+*.dSYM/
+calc-gigante
+test_bigint
+oraculo
+bench_karatsuba
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/
+
+# Outras pilhas (padrão da casa)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+*.egg-info/
+coverage/
